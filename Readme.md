@@ -1,4 +1,4 @@
-NodeJS CRUD.
+NodeJS CRUD in module 1.
 
 Course available at: https://rocketseat.com.br/bootcamp
 
