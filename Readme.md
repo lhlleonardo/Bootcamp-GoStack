@@ -2,4 +2,4 @@ NodeJS CRUD.
 
 Course available at: https://rocketseat.com.br/bootcamp
 
-For clone: https://github.com/lhlleonardo/Bootcamp-GoStack.git
+For clone: git clone https://github.com/lhlleonardo/Bootcamp-GoStack.git
