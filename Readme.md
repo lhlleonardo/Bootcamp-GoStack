@@ -1,5 +1,7 @@
-NodeJS CRUD in module 1.
+<h1>Rocketseat - bootcamp</h1>
 
-Course available at: https://rocketseat.com.br/bootcamp
+<h2>NodeJS CRUD made in module 1 on Bootcamp.</h2>
 
-For clone: git clone https://github.com/lhlleonardo/GoStack-Module01.git
+<p>Course available at: https://rocketseat.com.br/bootcamp</p>
+
+<p>For clone: git clone https://github.com/lhlleonardo/GoStack-Module01.git</p>
