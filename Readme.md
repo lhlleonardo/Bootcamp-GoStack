@@ -15,5 +15,3 @@
 </ul>
 
 <p>For clone: git clone https://github.com/lhlleonardo/GoStack-NodeJS-CRUD.git</p>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmmPKHeFQI7gAjKLWgK-1zCFDL13wHc3_JqT7A7URkiuW2c7O&s">
