@@ -49,8 +49,8 @@ function VerifyUserArray(req, res, next){
 
 // Query Params Example
 server.get('/test', (req, res) => {
-    //const name = req.query.name;
-    const { id } = req.params;
+    const name = req.query.name;
+    //const { name } = req.params;
 
     return res.json({
         message: `Hello ${name}` //Query Params example: http://localhost:2323/test?name=Leonardo
@@ -70,7 +70,7 @@ server.get('/users/:id', (req, res) => {
 
 const products = ['Computer', 'Mouse Wireless', 'Keyboard'];
 
-// List Product bt Index
+// List Product by Index
 server.get('/products/:index', checkUserInArray, VerifyUserArray,(req, res) => {
     //const { index } = req.params;
     
@@ -112,5 +112,5 @@ server.delete('/products/:index', checkUserInArray, VerifyUserArray, (req, res) 
     return res.json(products);
 });
 
-// Port App
+// Listen Port App
 server.listen(2323);
