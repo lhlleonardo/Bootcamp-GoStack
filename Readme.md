@@ -1,4 +1,4 @@
-<img style="max-width:600px;width:100%"src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
+<img max-width:600px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
 
 <h1>Rocketseat - bootcamp</h1>
 
